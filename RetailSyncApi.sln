@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailSyncApi", "RetailSyncApi\RetailSyncApi.csproj", "{DE191E74-78CA-41BD-98ED-2E668FD19635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE191E74-78CA-41BD-98ED-2E668FD19635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE191E74-78CA-41BD-98ED-2E668FD19635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE191E74-78CA-41BD-98ED-2E668FD19635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE191E74-78CA-41BD-98ED-2E668FD19635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847F7F6C-6412-49D4-A93A-EB964B63F2DE}
+	EndGlobalSection
+EndGlobal
